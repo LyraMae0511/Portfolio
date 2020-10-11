@@ -1,11 +1,11 @@
-html {
-    scroll-behavior: smooth;
-}
 .box {
     border-style: solid;
     border-color: yellow;
     border-width: 2px;
     height: fit-content;
+}
+html {
+    scroll-behavior: smooth;
 }
 body {
     background-image: url(https://wallpaperaccess.com/full/823503.jpg);
